@@ -1,0 +1,16 @@
+C:\University\.NET\Lab2\Kata04\Kata04\bin\Debug\net5.0\Kata04.exe
+C:\University\.NET\Lab2\Kata04\Kata04\bin\Debug\net5.0\Kata04.deps.json
+C:\University\.NET\Lab2\Kata04\Kata04\bin\Debug\net5.0\Kata04.runtimeconfig.json
+C:\University\.NET\Lab2\Kata04\Kata04\bin\Debug\net5.0\Kata04.runtimeconfig.dev.json
+C:\University\.NET\Lab2\Kata04\Kata04\bin\Debug\net5.0\Kata04.dll
+C:\University\.NET\Lab2\Kata04\Kata04\bin\Debug\net5.0\ref\Kata04.dll
+C:\University\.NET\Lab2\Kata04\Kata04\bin\Debug\net5.0\Kata04.pdb
+C:\University\.NET\Lab2\Kata04\Kata04\obj\Debug\net5.0\Kata04.csproj.AssemblyReference.cache
+C:\University\.NET\Lab2\Kata04\Kata04\obj\Debug\net5.0\Kata04.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\.NET\Lab2\Kata04\Kata04\obj\Debug\net5.0\Kata04.AssemblyInfoInputs.cache
+C:\University\.NET\Lab2\Kata04\Kata04\obj\Debug\net5.0\Kata04.AssemblyInfo.cs
+C:\University\.NET\Lab2\Kata04\Kata04\obj\Debug\net5.0\Kata04.csproj.CoreCompileInputs.cache
+C:\University\.NET\Lab2\Kata04\Kata04\obj\Debug\net5.0\Kata04.dll
+C:\University\.NET\Lab2\Kata04\Kata04\obj\Debug\net5.0\ref\Kata04.dll
+C:\University\.NET\Lab2\Kata04\Kata04\obj\Debug\net5.0\Kata04.pdb
+C:\University\.NET\Lab2\Kata04\Kata04\obj\Debug\net5.0\Kata04.genruntimeconfig.cache
