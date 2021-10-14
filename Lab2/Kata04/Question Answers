@@ -1,0 +1,8 @@
+1. Having a separate generic FileReader class from the beginning saved me a lot of time when writing the second program.    
+2. The second problem was very similar to the first one, so I initially ended up pretty much copy-pasting  most of the main method of the first program. I later changed it
+so it could be used by both programs, albeit perhaps not in the prettiest way.
+3. This whole coding kata ended up requiring very little code, so the effects of such forceful factoring isn't as noticeable. I imagine that in bigger projects,
+trying to have as little code as possible might end up in it being extremely hard to read and maintain. I think that in general, modern computers are fast enough to render a few
+more method calls caused by more organized, readable code, unnoticeable to the user.
+4. Honestly, with this kata being such a small project, I don't think I learnt much, if anything at all. There really weren't any opportunities to really have to think about how to
+organize my code the best way.
